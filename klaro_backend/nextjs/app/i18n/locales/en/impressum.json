@@ -1,0 +1,17 @@
+{
+    "impressum": {
+      "title": "Impressum",
+      "responsibility": "The person responsible in terms of the GDPR and other data protection laws is:",
+      "address": {
+        "name": "Klaro Care",
+        "person": "Luca Wemhöner",
+        "street": "Siekerwall",
+        "city": "Bielefeld",
+        "country": "Germany"
+      },
+      "contact": {
+        "title": "Contact",
+        "email": "Email"
+      }
+    }
+}

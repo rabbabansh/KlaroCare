@@ -1,0 +1,16 @@
+{
+    "contactForm": {
+        "title": "Kontaktieren Sie uns",
+        "description": "Bereit, die Pflege einfacher zu gestalten? Lassen Sie uns ins Gespräch kommen.",
+        "nameLabel": "Name",
+        "emailLabel": "E-Mail",
+        "phoneLabel": "Telefonnummer",
+        "optional": "optional",
+        "submitButton": "Jetzt starten",
+        "submitting": "Wird gesendet...",
+        "successMessage": "Vielen Dank! Wir melden uns bald bei Ihnen.",
+        "errorMessage": "Ups! Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut.",
+        "consentText": "Durch Klicken des Buttons willigen Sie ein, dass Ihre persönlichen Daten (Name, E-Mail-Adresse und ggf. Telefonnummer) zum Zweck der Kontaktaufnahme verarbeitet werden.",
+        "revokeConsent": "Sie können Ihre Einwilligung jederzeit mit Wirkung für die Zukunft widerrufen, indem Sie eine E-Mail an klaro.carely@gmail.com senden. Weitere Informationen zur Verarbeitung Ihrer persönlichen Daten finden Sie in unserer Datenschutzerklärung."
+    }
+}

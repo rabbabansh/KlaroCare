@@ -1,0 +1,22 @@
+{
+  "cardBanner": {
+    "cards": {
+      "carePlan": {
+        "title": "Personalized Care Plan",
+        "description": "Stress Free Care Giving With A Clear Path"
+      },
+      "telehealth": {
+        "title": "Tele Health",
+        "description": "Access To Healthcare From Your Home"
+      },
+      "medication": {
+        "title": "Medication Management",
+        "description": "Track And Manage Medications Easily"
+      },
+      "guidance": {
+        "title": "Care Guidance",
+        "description": "Expert Support When You Need It Most"
+      }
+    }
+  }
+} 

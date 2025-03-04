@@ -1,0 +1,30 @@
+{
+    "datenschutz": {
+        "title": "Data Protection",
+        "introduction": "We are very pleased about your interest in our website. Data protection is of particularly high importance to the management of Klaro Care. The use of the Klaro Care website is generally possible without providing personal data...",
+        "dataProcessing": "The processing of personal data, such as the name, address, email address, or telephone number of a data subject, is always carried out in accordance with the General Data Protection Regulation...",
+        "generalData": {
+            "title": "Collection of General Data and Information",
+            "content": "With each call of the website by a data subject or an automated system, the Klaro Care website collects a number of general data and information..."
+        },
+        "contact": {
+            "title": "Contact Options via the Website",
+            "content": "The Klaro Care website contains information that enables quick electronic contact with our company as well as immediate communication with us due to legal requirements..."
+        },
+        "dataRetention": {
+            "title": "Routine Deletion and Blocking of Personal Data",
+            "content": "The responsible party processes and stores personal data of the data subject only for the period necessary to achieve the purpose of storage or as required by European legislators..."
+        },
+        "rights": {
+            "title": "Rights of the Data Subject",
+            "confirmation": "a) Right to confirmation",
+            "information": "b) Right to access",
+            "correction": "c) Right to rectification",
+            "deletion": "d) Right to deletion (\"Right to be Forgotten\")",
+            "restriction": "e) Right to restriction of processing",
+            "dataTransfer": "f) Right to data portability",
+            "objection": "g) Right to object",
+            "withdrawal": "h) Right to withdraw consent to data processing"
+        }
+    }
+}

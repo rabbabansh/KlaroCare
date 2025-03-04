@@ -1,0 +1,22 @@
+{
+  "cardBanner": {
+    "cards": {
+      "carePlan": {
+        "title": "Personalisierter Pflegeplan",
+        "description": "Stressfreie Pflege mit einem klaren Weg"
+      },
+      "telehealth": {
+        "title": "Telemedizin",
+        "description": "Zugang zur Gesundheitsversorgung von zu Hause"
+      },
+      "medication": {
+        "title": "Medikamentenmanagement",
+        "description": "Medikamente einfach verfolgen und verwalten"
+      },
+      "guidance": {
+        "title": "Pflegeberatung",
+        "description": "Expertenunterstützung wenn Sie sie am meisten brauchen"
+      }
+    }
+  }
+} 

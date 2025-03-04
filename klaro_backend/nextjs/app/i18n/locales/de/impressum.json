@@ -1,0 +1,17 @@
+{
+    "impressum": {
+      "title": "Impressum",
+      "responsibility": "Der Verantwortliche im Sinne der DSGVO und anderer Datenschutzgesetze ist:",
+      "address": {
+        "name": "Klaro Care",
+        "person": "Luca Wemhöner",
+        "street": "Siekerwall",
+        "city": "Bielefeld",
+        "country": "Deutschland"
+      },
+      "contact": {
+        "title": "Kontakt",
+        "email": "E-Mail"
+      }
+    }
+}

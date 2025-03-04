@@ -1,0 +1,23 @@
+{
+  "partners": {
+    "title": "Our Partners",
+    "cards": {
+      "insurance": {
+        "title": "Insurance Companies",
+        "description": "We Provide Tailored Solutions To Drive Retention And Lower Medical Costs For Your Insurance Plan."
+      },
+      "healthcare": {
+        "title": "Healthcare Organizations",
+        "description": "We Partner With You To Create The Best Healthcare Ecosystem That Germany Deserves"
+      },
+      "employers": {
+        "title": "Employers - Providing Benefits",
+        "description": "Klaro Care Delivers Essential Support For Working Caregivers That Other Benefits Just Can't Provide"
+      },
+      "welfare": {
+        "title": "Welfare Organizations",
+        "description": "We Partner With You To Support The Care Givers And Fix The Healthcare System"
+      }
+    }
+  }
+} 

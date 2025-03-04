@@ -1,0 +1,30 @@
+{
+    "datenschutz": {
+        "title": "Datenschutz",
+        "introduction": "Wir freuen uns sehr über Ihr Interesse an unserer Website. Der Datenschutz hat einen besonders hohen Stellenwert für die Geschäftsleitung von Klaro Care. Die Nutzung der Klaro Care-Website ist grundsätzlich ohne Angabe personenbezogener Daten möglich...",
+        "dataProcessing": "Die Verarbeitung personenbezogener Daten, wie zum Beispiel des Namens, der Adresse, E-Mail-Adresse oder Telefonnummer einer betroffenen Person, erfolgt stets im Einklang mit der Datenschutz-Grundverordnung...",
+        "generalData": {
+            "title": "Erfassung von allgemeinen Daten und Informationen",
+            "content": "Die Klaro Care-Website erfasst mit jedem Aufruf der Website durch eine betroffene Person oder ein automatisiertes System eine Reihe von allgemeinen Daten und Informationen..."
+        },
+        "contact": {
+            "title": "Kontaktmöglichkeit über die Website",
+            "content": "Die Klaro Care-Website enthält aufgrund von gesetzlichen Vorschriften Angaben, die eine schnelle elektronische Kontaktaufnahme zu unserem Unternehmen sowie eine unmittelbare Kommunikation mit uns ermöglichen..."
+        },
+        "dataRetention": {
+            "title": "Routinemäßige Löschung und Sperrung von personenbezogenen Daten",
+            "content": "Der Verantwortliche verarbeitet und speichert personenbezogene Daten der betroffenen Person nur für den Zeitraum, der zur Erreichung des Speicherungszwecks erforderlich ist oder sofern dies durch den europäischen Gesetzgeber..."
+        },
+        "rights": {
+            "title": "Rechte der betroffenen Person",
+            "confirmation": "a) Recht auf Bestätigung",
+            "information": "b) Recht auf Auskunft",
+            "correction": "c) Recht auf Berichtigung",
+            "deletion": "d) Recht auf Löschung (\"Recht auf Vergessenwerden\")",
+            "restriction": "e) Recht auf Einschränkung der Verarbeitung",
+            "dataTransfer": "f) Recht auf Datenübertragbarkeit",
+            "objection": "g) Recht auf Widerspruch",
+            "withdrawal": "h) Recht auf Widerruf einer datenschutzrechtlichen Einwilligung"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+  "partners": {
+    "title": "Unsere Partner",
+    "cards": {
+      "insurance": {
+        "title": "Versicherungs- unternehmen",
+        "description": "Wir bieten maßgeschneiderte Lösungen zur Steigerung der Kundenbindung und Senkung der Gesundheitskosten für Ihren Versicherungsplan."
+      },
+      "healthcare": {
+        "title": "Gesundheits- organisationen",
+        "description": "Wir arbeiten mit Ihnen zusammen, um das beste Gesundheitsökosystem zu schaffen, das Deutschland verdient"
+      },
+      "employers": {
+        "title": "Arbeitgeber- Leistungen",
+        "description": "Klaro Care bietet essentielle Unterstützung für berufstätige Pflegende, die andere Leistungen einfach nicht bieten können"
+      },
+      "welfare": {
+        "title": "Wohlfahrts- organisationen",
+        "description": "Wir arbeiten mit Ihnen zusammen, um die Pflegenden zu unterstützen und das Gesundheitssystem zu verbessern"
+      }
+    }
+  }
+} 
